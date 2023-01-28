@@ -14,4 +14,4 @@
 
 | Название и ссылка | Описание проекта | Используемые инструменты |
 | ------ | ------ | ------ |
-| [Музыка больших городов](https://github.com/D-e-n-mark/Practicum/tree/main/1.%20big%20city%20music) ](https://github.com/D-e-n-mark/Practicum/tree/main/1.%20big%20city%20music)) | Сравнение Москвы и Санкт-Петербурга по музыкальным предпочтнениям на основе собранных данных | ``Python`` ``Pandas``
+| [Музыка больших городов](https://github.com/D-e-n-mark/Practicum/tree/main/1.%20big%20city%20music) | Сравнение Москвы и Санкт-Петербурга по музыкальным предпочтнениям на основе собранных данных | ``Python`` ``Pandas``
